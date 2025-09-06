@@ -1,2 +1,2 @@
 # git-and-github-cheat-Sheet
-This contains commands to GIT and GITHUB.
+This contains commands related to GIT and GITHUB.
